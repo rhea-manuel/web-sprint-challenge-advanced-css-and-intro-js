@@ -136,6 +136,9 @@ button:hover{
 }
 
 @media (max-width: 500px){
+    .title-container hr{
+        width:100%;
+    }
     nav span{
         border:none;
     }    
@@ -160,7 +163,7 @@ button:hover{
         justify-content: center;
         align-items: center;
         width: 100%;
-        
+        margin-bottom: 15%;
         
     }
 
